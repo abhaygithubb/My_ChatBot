@@ -1,0 +1,31 @@
+A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone.
+Why are chatbots important? A chatbot is often described as one of the most advanced and promising expressions of interaction between humans and machines. However, from a technological point of view, a chatbot only represents the natural evolution of a Question Answering system leveraging Natural Language Processing (NLP). Formulating responses to questions in natural language is one of the most typical Examples of Natural Language Processing applied in various enterprises’ end-use applications.
+
+
+There are two different tasks at the core of a chatbot:
+1) User request analysis
+2) Returning the response
+
+
+1) User request analysis: this is the first task that a chatbot performs. It analyzes the user’s request to identify the user intent and to extract relevant entities.The ability to identify the user’s intent and extract data and relevant entities contained in the user’s request is the first condition and the most relevant step at the core of a chatbot: If you are not able to correctly understand the user’s request, you won’t be able to provide the correct answer.
+
+
+2) Returning the response: once the user’s intent has been identified, the chatbot must provide the most appropriate response for the user’s request. The answer may be:
+
+• a generic and predefined text
+• a text retrieved from a knowledge base that contains different answers
+• a contextualized piece of information based on data the user has provided
+• data stored in enterprise systems
+• the result of an action that the chatbot performed by interacting with one or more backend application
+• a disambiguating question that helps the chatbot to correctly understand the user’s request
+
+
+Why chatbots are important
+Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time, they offer companies new opportunities to improve the customers engagement process and operational efficiency by reducing the typical cost of customer service.
+
+To be successful, a chatbot solution should be able to effectively perform both of these tasks. Human support plays a key role here: Regardless of the kind of approach and the platform, human intervention is crucial in configuring, training and optimizing the chatbot system.
+
+
+Which chatbot application is right for you?
+There are different approaches and tools that you can use to develop a chatbot. Depending on the use case you want to address, some chatbot technologies are more appropriate than others. In order to achieve the desired results, the combination of different AI forms such as natural language processing, machine learning and semantic understanding may be the best option.
+In upcoming posts, we will give you an overview of the main chatbot applications so you can evaluate them based on your specific needs and desired goals.
